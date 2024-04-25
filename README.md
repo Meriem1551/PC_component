@@ -17,7 +17,7 @@
 -------------------------------------------------
 
 
-## Introduction <a name="introduction"></a>
+# Introduction <a name="introduction"></a>
 
 
 Welcome to the PC Configuration Repository!
@@ -35,13 +35,13 @@ In this repository, you'll find:
 - A Test class to demonstrate the configuration of a PC and display its power consumption for a specified duration.
 Feel free to explore the implementation and test out different PC configurations!
 
-<h3 id="usage">Usage</h3>
+# Usage <a name="usage"></a>
 Clone this repo or fork it to your machine and try it yourself
 
 ```bash
 git clone https://github.com/Meriem1551/PC_component.git
 ```
-<h3 id="explaining_code">Explaining code</h3>
+# Explaining code <a name="explaining_code"></a>
 <h4>UC class</h4>
 Properties:
 
@@ -218,6 +218,6 @@ try {
 
 getMessage(): is a getter in the super class Exception that return the message passed in the constructor.
 
-<h3 id="author">Author</h3>
+# Author<a name = "author"></a>
 
 Meriem Boussaid
